@@ -56,6 +56,9 @@ The SVG artwork is in `icons/`:
 | <img src="icons/sql.svg" width="24" height="24" alt="SQL"> | `sql.svg` | Blue SQL tile |
 | <img src="icons/sql-up.svg" width="24" height="24" alt="up.sql"> | `sql-up.svg` | SQL tile with a lime up arrow |
 | <img src="icons/sql-down.svg" width="24" height="24" alt="down.sql"> | `sql-down.svg` | SQL tile with a coral down arrow |
+| <img src="icons/markdown.svg" width="24" height="24" alt="Markdown"> | `markdown.svg` | Mint tile with M and a down arrow |
+| <img src="icons/readme.svg" width="24" height="24" alt="README"> | `readme.svg` | Green tile with R for README files |
+| <img src="icons/agents.svg" width="24" height="24" alt="AGENTS"> | `agents.svg` | Peach robot with green eyes for AGENTS files |
 
 Install the color theme and file icons together through Zed:
 
@@ -70,7 +73,7 @@ Install the color theme and file icons together through Zed:
 }
 ```
 
-The icon theme maps `.rs`, `.go`, `.json`, `.jsonc` and `.sql`, with separate gophers for `go.mod` and `go.sum`. SQL migrations use arrow variants for `up.sql` and `down.sql`, including filenames ending in `.up.sql` or `.down.sql`. It also includes closed and open folders and a default file icon. Other file types use the default icon.
+The icon theme maps `.rs`, `.go`, `.json`, `.jsonc` and `.sql`, with separate gophers for `go.mod` and `go.sum`. SQL migrations use arrow variants for `up.sql` and `down.sql`, including filenames ending in `.up.sql` or `.down.sql`. Markdown files use the M and arrow tile; README and AGENTS files have their own icons. It also includes closed and open folders and a default file icon. Other file types use the default icon.
 
 The PowerShell and shell installers above still copy only the color theme. Use the dev extension installation for file icons.
 

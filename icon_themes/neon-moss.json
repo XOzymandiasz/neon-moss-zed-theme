@@ -14,7 +14,13 @@
         "go.mod": "go-mod",
         "go.sum": "go-sum",
         "up.sql": "sql-up",
-        "down.sql": "sql-down"
+        "down.sql": "sql-down",
+        "readme": "readme",
+        "readme.md": "readme",
+        "readme.markdown": "readme",
+        "readme.txt": "readme",
+        "agents": "agents",
+        "agents.md": "agents"
       },
       "file_suffixes": {
         "rs": "rust",
@@ -23,7 +29,10 @@
         "go": "go",
         "sql": "sql",
         "up.sql": "sql-up",
-        "down.sql": "sql-down"
+        "down.sql": "sql-down",
+        "md": "markdown",
+        "markdown": "markdown",
+        "mdown": "markdown"
       },
       "file_icons": {
         "go": {
@@ -52,6 +61,15 @@
         },
         "sql-down": {
           "path": "./icons/sql-down.svg"
+        },
+        "markdown": {
+          "path": "./icons/markdown.svg"
+        },
+        "readme": {
+          "path": "./icons/readme.svg"
+        },
+        "agents": {
+          "path": "./icons/agents.svg"
         }
       }
     }
