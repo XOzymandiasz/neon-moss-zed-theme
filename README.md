@@ -53,6 +53,9 @@ The SVG artwork is in `icons/`:
 | <img src="icons/json.svg" width="24" height="24" alt="JSON"> | `json.svg` | Purple rounded tile with dark braces |
 | <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
 | <img src="icons/go-sum.svg" width="24" height="24" alt="go.sum"> | `go-sum.svg` | Muted pink gopher for `go.sum` |
+| <img src="icons/sql.svg" width="24" height="24" alt="SQL"> | `sql.svg` | Blue SQL tile |
+| <img src="icons/sql-up.svg" width="24" height="24" alt="up.sql"> | `sql-up.svg` | SQL tile with a lime up arrow |
+| <img src="icons/sql-down.svg" width="24" height="24" alt="down.sql"> | `sql-down.svg` | SQL tile with a coral down arrow |
 
 Install the color theme and file icons together through Zed:
 
@@ -67,7 +70,7 @@ Install the color theme and file icons together through Zed:
 }
 ```
 
-The icon theme maps `.rs`, `.go`, `.json` and `.jsonc`, with separate gophers for `go.mod` and `go.sum`. It also includes closed and open folders and a default file icon. Other file types use the default icon.
+The icon theme maps `.rs`, `.go`, `.json`, `.jsonc` and `.sql`, with separate gophers for `go.mod` and `go.sum`. SQL migrations use arrow variants for `up.sql` and `down.sql`, including filenames ending in `.up.sql` or `.down.sql`. It also includes closed and open folders and a default file icon. Other file types use the default icon.
 
 The PowerShell and shell installers above still copy only the color theme. Use the dev extension installation for file icons.
 

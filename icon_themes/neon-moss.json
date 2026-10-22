@@ -12,13 +12,18 @@
       },
       "file_stems": {
         "go.mod": "go-mod",
-        "go.sum": "go-sum"
+        "go.sum": "go-sum",
+        "up.sql": "sql-up",
+        "down.sql": "sql-down"
       },
       "file_suffixes": {
         "rs": "rust",
         "jsonc": "json",
         "json": "json",
-        "go": "go"
+        "go": "go",
+        "sql": "sql",
+        "up.sql": "sql-up",
+        "down.sql": "sql-down"
       },
       "file_icons": {
         "go": {
@@ -38,6 +43,15 @@
         },
         "go-sum": {
           "path": "./icons/go-sum.svg"
+        },
+        "sql": {
+          "path": "./icons/sql.svg"
+        },
+        "sql-up": {
+          "path": "./icons/sql-up.svg"
+        },
+        "sql-down": {
+          "path": "./icons/sql-down.svg"
         }
       }
     }
