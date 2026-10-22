@@ -4,6 +4,10 @@ A Zed theme with almost-black green backgrounds and soft, bright syntax colors i
 
 By XOzymandiasz.
 
+## Preview
+
+Open [Zed Theme Builder](https://zed.dev/theme-builder) on a desktop browser. Choose **Import > From File** and select [	hemes/neon-moss.json](themes/neon-moss.json) from this repository to preview the palette before installing it.
+
 ## Install
 
 Clone or download this repository, then run the installer from its root.
