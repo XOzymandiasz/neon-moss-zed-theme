@@ -76,6 +76,10 @@ The PowerShell and shell installers above still copy only the color theme. Use t
 
 The Rust icon is adapted from [Catppuccin Icons](https://github.com/catppuccin/vscode-icons). Its upstream MIT license is included in [icons/LICENSE-catppuccin](icons/LICENSE-catppuccin); [icons/SOURCES.md](icons/SOURCES.md) records the source and changes.
 
+### Update the icons
+
+After pulling changes or editing the SVG files, open the command palette and run `zed: install dev extension` again. Select the same repository folder. If the icons still show the previous version, restart Zed and check that `icon_theme` is set to `Neon Moss Icons`.
+
 ## Rust attribute colors
 
 The theme assigns amber (`#FFD08A`) to the `attribute` and `preproc` styles. Whether a name uses those styles depends on the language's highlighting rules.
