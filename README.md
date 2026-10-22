@@ -54,7 +54,22 @@ The SVG artwork is in `icons/`:
 | <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
 | <img src="icons/go-sum.svg" width="24" height="24" alt="go.sum"> | `go-sum.svg` | Muted pink gopher for `go.sum` |
 
-These are the selected designs. Zed icon-theme configuration and filename mappings have not been added yet, so the installers currently install only the color theme.
+Install the color theme and file icons together through Zed:
+
+1. Open the command palette and run `zed: install dev extension`.
+2. Select this repository's root folder, which contains `extension.toml`.
+3. Choose `Neon Moss` as the color theme.
+4. Set your icon theme to `Neon Moss Icons` in Zed settings:
+
+```json
+{
+  "icon_theme": "Neon Moss Icons"
+}
+```
+
+The icon theme maps `.rs`, `.go`, `.json` and `.jsonc`, with separate gophers for `go.mod` and `go.sum`. It also includes closed and open folders and a default file icon. Other file types use the default icon.
+
+The PowerShell and shell installers above still copy only the color theme. Use the dev extension installation for file icons.
 
 The Rust icon is adapted from [Catppuccin Icons](https://github.com/catppuccin/vscode-icons). Its upstream MIT license is included in [icons/LICENSE-catppuccin](icons/LICENSE-catppuccin); [icons/SOURCES.md](icons/SOURCES.md) records the source and changes.
 

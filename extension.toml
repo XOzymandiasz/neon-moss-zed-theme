@@ -3,4 +3,4 @@ name = "Neon Moss"
 version = "0.1.0"
 schema_version = 1
 authors = ["XOzymandiasz"]
-description = "A dark green Zed theme with soft Monokai-inspired syntax colors."
+description = "A dark green Zed theme with soft Monokai-inspired colors and matching file icons."

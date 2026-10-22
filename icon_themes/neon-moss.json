@@ -1,0 +1,45 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
+  "name": "Neon Moss Icons",
+  "author": "XOzymandiasz",
+  "themes": [
+    {
+      "name": "Neon Moss Icons",
+      "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder-open.svg"
+      },
+      "file_stems": {
+        "go.mod": "go-mod",
+        "go.sum": "go-sum"
+      },
+      "file_suffixes": {
+        "rs": "rust",
+        "jsonc": "json",
+        "json": "json",
+        "go": "go"
+      },
+      "file_icons": {
+        "go": {
+          "path": "./icons/go.svg"
+        },
+        "rust": {
+          "path": "./icons/rust.svg"
+        },
+        "json": {
+          "path": "./icons/json.svg"
+        },
+        "default": {
+          "path": "./icons/file.svg"
+        },
+        "go-mod": {
+          "path": "./icons/go-mod.svg"
+        },
+        "go-sum": {
+          "path": "./icons/go-sum.svg"
+        }
+      }
+    }
+  ]
+}
