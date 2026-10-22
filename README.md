@@ -6,7 +6,7 @@ By XOzymandiasz.
 
 ## Preview
 
-Open [Zed Theme Builder](https://zed.dev/theme-builder) on a desktop browser. Choose **Import > From File** and select [	hemes/neon-moss.json](themes/neon-moss.json) from this repository to preview the palette before installing it.
+Open [Zed Theme Builder](https://zed.dev/theme-builder) on a desktop browser. Choose **Import > From File** and select [themes/neon-moss.json](themes/neon-moss.json) from this repository to preview the palette before installing it.
 
 ## Install
 
