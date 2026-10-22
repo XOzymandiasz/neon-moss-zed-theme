@@ -41,6 +41,23 @@ On macOS and Linux, use `$XDG_CONFIG_HOME/zed/themes` if you have set `XDG_CONFI
 
 You can also load this repository through Zed's `zed: install dev extension` command. Select the repository folder, then choose Neon Moss in the theme selector.
 
+## File icons
+
+The SVG artwork is in `icons/`:
+
+| Preview | File | Design |
+| --- | --- | --- |
+| <img src="icons/folder.svg" width="24" height="24" alt="Folder"> | `folder.svg` | Green folder |
+| <img src="icons/rust.svg" width="24" height="24" alt="Rust"> | `rust.svg` | Peach crab with a toothed shell and an R |
+| <img src="icons/go.svg" width="24" height="24" alt="Go"> | `go.svg` | Cyan gopher |
+| <img src="icons/json.svg" width="24" height="24" alt="JSON"> | `json.svg` | Yellow braces |
+| <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
+| <img src="icons/go-sum.svg" width="24" height="24" alt="go.sum"> | `go-sum.svg` | Muted pink gopher for `go.sum` |
+
+These are the selected designs. Zed icon-theme configuration and filename mappings have not been added yet, so the installers currently install only the color theme.
+
+The Rust icon is adapted from [Catppuccin Icons](https://github.com/catppuccin/vscode-icons). Its upstream MIT license is included in [icons/LICENSE-catppuccin](icons/LICENSE-catppuccin); [icons/SOURCES.md](icons/SOURCES.md) records the source and changes.
+
 ## Rust attribute colors
 
 The theme assigns amber (`#FFD08A`) to the `attribute` and `preproc` styles. Whether a name uses those styles depends on the language's highlighting rules.
