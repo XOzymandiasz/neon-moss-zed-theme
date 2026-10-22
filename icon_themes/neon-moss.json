@@ -21,7 +21,19 @@
         "readme.txt": "readme",
         "agents": "agents",
         "agents.md": "agents",
-        ".gitignore": "gitignore"
+        ".gitignore": "gitignore",
+        "README": "readme",
+        "README.md": "readme",
+        "README.markdown": "readme",
+        "README.txt": "readme",
+        "Readme": "readme",
+        "Readme.md": "readme",
+        "Readme.markdown": "readme",
+        "Readme.txt": "readme",
+        "AGENTS": "agents",
+        "AGENTS.md": "agents",
+        "Agents": "agents",
+        "Agents.md": "agents"
       },
       "file_suffixes": {
         "rs": "rust",
