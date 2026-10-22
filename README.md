@@ -53,18 +53,18 @@ The SVG artwork is in `icons/`:
 | <img src="icons/json.svg" width="24" height="24" alt="JSON"> | `json.svg` | Purple rounded tile with dark braces |
 | <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
 | <img src="icons/go-sum.svg" width="24" height="24" alt="go.sum"> | `go-sum.svg` | Muted pink gopher for `go.sum` |
-| <img src="icons/sql.svg" width="24" height="24" alt="SQL"> | `sql.svg` | Blue SQL tile |
-| <img src="icons/sql-up.svg" width="24" height="24" alt="up.sql"> | `sql-up.svg` | SQL tile with a lime up arrow |
-| <img src="icons/sql-down.svg" width="24" height="24" alt="down.sql"> | `sql-down.svg` | SQL tile with a coral down arrow |
-| <img src="icons/markdown.svg" width="24" height="24" alt="Markdown"> | `markdown.svg` | Mint tile with M and a down arrow |
-| <img src="icons/readme.svg" width="24" height="24" alt="README"> | `readme.svg` | Green tile with R for README files |
+| <img src="icons/sql.svg" width="24" height="24" alt="SQL"> | `sql.svg` | Blue SQL lettering on a transparent background |
+| <img src="icons/sql-up.svg" width="24" height="24" alt="up.sql"> | `sql-up.svg` | Blue SQL lettering with a lime up arrow |
+| <img src="icons/sql-down.svg" width="24" height="24" alt="down.sql"> | `sql-down.svg` | Blue SQL lettering with a coral down arrow |
+| <img src="icons/markdown.svg" width="24" height="24" alt="Markdown"> | `markdown.svg` | Mint M and down arrow on a transparent background |
+| <img src="icons/readme.svg" width="24" height="24" alt="README"> | `readme.svg` | Green R on a transparent background for README files |
 | <img src="icons/agents.svg" width="24" height="24" alt="AGENTS"> | `agents.svg` | Peach robot with green eyes for AGENTS files |
 | <img src="icons/gitignore.svg" width="24" height="24" alt=".gitignore"> | `gitignore.svg` | Peach Git tile with a minus badge for `.gitignore` |
 | <img src="icons/docker.svg" width="24" height="24" alt="Dockerfile"> | `docker.svg` | Blue whale with containers for Dockerfile |
 | <img src="icons/dockerignore.svg" width="24" height="24" alt=".dockerignore"> | `dockerignore.svg` | Whale with a gray minus badge for `.dockerignore` |
 | <img src="icons/folder-github.svg" width="24" height="24" alt=".github folder"> | `folder-github.svg` | Green `.github` folder with a cat emblem |
 | <img src="icons/folder-github-open.svg" width="24" height="24" alt="Open .github folder"> | `folder-github-open.svg` | Open `.github` folder |
-| <img src="icons/yaml.svg" width="24" height="24" alt="YAML"> | `yaml.svg` | Coral tile with indented Y, M and L and a subtle stepped line for `.yml` and `.yaml` |
+| <img src="icons/yaml.svg" width="24" height="24" alt="YAML"> | `yaml.svg` | Coral indented Y, M and L on a transparent background for `.yml` and `.yaml` |
 
 Install the color theme and file icons together through Zed:
 
@@ -79,7 +79,7 @@ Install the color theme and file icons together through Zed:
 }
 ```
 
-The icon theme maps `.rs`, `.go`, `.json`, `.jsonc`, `.sql`, `.yml` and `.yaml`, with separate gophers for `go.mod` and `go.sum`. SQL migrations use arrow variants for `up.sql` and `down.sql`, including filenames ending in `.up.sql` or `.down.sql`. Markdown files use the M and arrow tile; README and AGENTS files have their own icons. It also includes closed and open folders and a default file icon. Other file types use the default icon.
+The icon theme maps `.rs`, `.go`, `.json`, `.jsonc`, `.sql`, `.yml` and `.yaml`, with separate gophers for `go.mod` and `go.sum`. SQL migrations use arrow variants for `up.sql` and `down.sql`, including filenames ending in `.up.sql` or `.down.sql`. Markdown files use mint M and arrow lettering; README and AGENTS files have their own icons. It also includes closed and open folders and a default file icon. Other file types use the default icon.
 
 The PowerShell and shell installers above still copy only the color theme. Use the dev extension installation for file icons.
 
