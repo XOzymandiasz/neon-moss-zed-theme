@@ -62,6 +62,8 @@ The SVG artwork is in `icons/`:
 | <img src="icons/gitignore.svg" width="24" height="24" alt=".gitignore"> | `gitignore.svg` | Peach Git tile with a minus badge for `.gitignore` |
 | <img src="icons/docker.svg" width="24" height="24" alt="Dockerfile"> | `docker.svg` | Blue whale with containers for Dockerfile |
 | <img src="icons/dockerignore.svg" width="24" height="24" alt=".dockerignore"> | `dockerignore.svg` | Whale with a gray minus badge for `.dockerignore` |
+| <img src="icons/folder-github.svg" width="24" height="24" alt=".github folder"> | `folder-github.svg` | Green `.github` folder with a cat emblem |
+| <img src="icons/folder-github-open.svg" width="24" height="24" alt="Open .github folder"> | `folder-github-open.svg` | Open `.github` folder |
 
 Install the color theme and file icons together through Zed:
 

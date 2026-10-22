@@ -102,6 +102,12 @@
         "dockerignore": {
           "path": "./icons/dockerignore.svg"
         }
+      },
+      "named_directory_icons": {
+        ".github": {
+          "collapsed": "./icons/folder-github.svg",
+          "expanded": "./icons/folder-github-open.svg"
+        }
       }
     }
   ]
