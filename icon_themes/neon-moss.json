@@ -20,7 +20,8 @@
         "readme.markdown": "readme",
         "readme.txt": "readme",
         "agents": "agents",
-        "agents.md": "agents"
+        "agents.md": "agents",
+        ".gitignore": "gitignore"
       },
       "file_suffixes": {
         "rs": "rust",
@@ -70,6 +71,9 @@
         },
         "agents": {
           "path": "./icons/agents.svg"
+        },
+        "gitignore": {
+          "path": "./icons/gitignore.svg"
         }
       }
     }

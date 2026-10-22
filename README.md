@@ -59,6 +59,7 @@ The SVG artwork is in `icons/`:
 | <img src="icons/markdown.svg" width="24" height="24" alt="Markdown"> | `markdown.svg` | Mint tile with M and a down arrow |
 | <img src="icons/readme.svg" width="24" height="24" alt="README"> | `readme.svg` | Green tile with R for README files |
 | <img src="icons/agents.svg" width="24" height="24" alt="AGENTS"> | `agents.svg` | Peach robot with green eyes for AGENTS files |
+| <img src="icons/gitignore.svg" width="24" height="24" alt=".gitignore"> | `gitignore.svg` | Peach Git tile with a minus badge for `.gitignore` |
 
 Install the color theme and file icons together through Zed:
 
