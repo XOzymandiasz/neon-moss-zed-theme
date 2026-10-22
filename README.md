@@ -53,18 +53,18 @@ The SVG artwork is in `icons/`:
 | <img src="icons/json.svg" width="24" height="24" alt="JSON"> | `json.svg` | Purple rounded tile with dark braces |
 | <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
 | <img src="icons/go-sum.svg" width="24" height="24" alt="go.sum"> | `go-sum.svg` | Muted pink gopher for `go.sum` |
-| <img src="icons/sql.svg" width="24" height="24" alt="SQL"> | `sql.svg` | Blue SQL lettering on a transparent background |
-| <img src="icons/sql-up.svg" width="24" height="24" alt="up.sql"> | `sql-up.svg` | Blue SQL lettering with a lime up arrow |
-| <img src="icons/sql-down.svg" width="24" height="24" alt="down.sql"> | `sql-down.svg` | Blue SQL lettering with a coral down arrow |
-| <img src="icons/markdown.svg" width="24" height="24" alt="Markdown"> | `markdown.svg` | Mint M and down arrow on a transparent background |
-| <img src="icons/readme.svg" width="24" height="24" alt="README"> | `readme.svg` | Green R on a transparent background for README files |
+| <img src="icons/sql-lettering.svg" width="24" height="24" alt="SQL"> | `sql-lettering.svg` | Blue SQL lettering on a transparent background |
+| <img src="icons/sql-up-lettering.svg" width="24" height="24" alt="up.sql"> | `sql-up-lettering.svg` | Blue SQL lettering with a lime up arrow |
+| <img src="icons/sql-down-lettering.svg" width="24" height="24" alt="down.sql"> | `sql-down-lettering.svg` | Blue SQL lettering with a coral down arrow |
+| <img src="icons/markdown-lettering.svg" width="24" height="24" alt="Markdown"> | `markdown-lettering.svg` | Mint M and down arrow on a transparent background |
+| <img src="icons/readme-lettering.svg" width="24" height="24" alt="README"> | `readme-lettering.svg` | Green R on a transparent background for README files |
 | <img src="icons/agents.svg" width="24" height="24" alt="AGENTS"> | `agents.svg` | Peach robot with green eyes for AGENTS files |
 | <img src="icons/gitignore.svg" width="24" height="24" alt=".gitignore"> | `gitignore.svg` | Peach Git tile with a minus badge for `.gitignore` |
 | <img src="icons/docker.svg" width="24" height="24" alt="Dockerfile"> | `docker.svg` | Blue whale with containers for Dockerfile |
 | <img src="icons/dockerignore.svg" width="24" height="24" alt=".dockerignore"> | `dockerignore.svg` | Whale with a gray minus badge for `.dockerignore` |
 | <img src="icons/folder-github.svg" width="24" height="24" alt=".github folder"> | `folder-github.svg` | Green `.github` folder with a cat emblem |
 | <img src="icons/folder-github-open.svg" width="24" height="24" alt="Open .github folder"> | `folder-github-open.svg` | Open `.github` folder |
-| <img src="icons/yaml.svg" width="24" height="24" alt="YAML"> | `yaml.svg` | Coral indented Y, M and L on a transparent background for `.yml` and `.yaml` |
+| <img src="icons/yaml-lettering.svg" width="24" height="24" alt="YAML"> | `yaml-lettering.svg` | Coral indented Y, M and L on a transparent background for `.yml` and `.yaml` |
 
 Install the color theme and file icons together through Zed:
 
@@ -87,7 +87,7 @@ The Rust icon is adapted from [Catppuccin Icons](https://github.com/catppuccin/v
 
 ### Update the icons
 
-After pulling changes or editing the SVG files, open the command palette and run `zed: install dev extension` again. Select the same repository folder. If the icons still show the previous version, restart Zed and check that `icon_theme` is set to `Neon Moss Icons`.
+After pulling changes or editing the SVG files, run `zed: rebuild dev extension` from the command palette and select Neon Moss if prompted. Then run `zed: reload extensions`. If the icons still show the previous version, fully quit and reopen Zed. Check that `icon_theme` is set to `Neon Moss Icons`.
 
 ## Rust attribute colors
 

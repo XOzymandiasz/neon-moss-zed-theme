@@ -78,19 +78,19 @@
           "path": "./icons/go-sum.svg"
         },
         "sql": {
-          "path": "./icons/sql.svg"
+          "path": "./icons/sql-lettering.svg"
         },
         "sql-up": {
-          "path": "./icons/sql-up.svg"
+          "path": "./icons/sql-up-lettering.svg"
         },
         "sql-down": {
-          "path": "./icons/sql-down.svg"
+          "path": "./icons/sql-down-lettering.svg"
         },
         "markdown": {
-          "path": "./icons/markdown.svg"
+          "path": "./icons/markdown-lettering.svg"
         },
         "readme": {
-          "path": "./icons/readme.svg"
+          "path": "./icons/readme-lettering.svg"
         },
         "agents": {
           "path": "./icons/agents.svg"
@@ -105,7 +105,7 @@
           "path": "./icons/dockerignore.svg"
         },
         "yaml": {
-          "path": "./icons/yaml.svg"
+          "path": "./icons/yaml-lettering.svg"
         }
       },
       "named_directory_icons": {
