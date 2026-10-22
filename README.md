@@ -48,7 +48,7 @@ The SVG artwork is in `icons/`:
 | Preview | File | Design |
 | --- | --- | --- |
 | <img src="icons/folder.svg" width="24" height="24" alt="Folder"> | `folder.svg` | Green folder |
-| <img src="icons/rust.svg" width="24" height="24" alt="Rust"> | `rust.svg` | Peach crab with a toothed shell and an R |
+| <img src="icons/rust.svg" width="24" height="24" alt="Rust"> | `rust.svg` | Filled peach crab with large eyes, a finely toothed shell and an R |
 | <img src="icons/go.svg" width="24" height="24" alt="Go"> | `go.svg` | Cyan gopher |
 | <img src="icons/json.svg" width="24" height="24" alt="JSON"> | `json.svg` | Yellow braces |
 | <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
