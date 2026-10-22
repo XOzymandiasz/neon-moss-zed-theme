@@ -60,6 +60,8 @@ The SVG artwork is in `icons/`:
 | <img src="icons/readme.svg" width="24" height="24" alt="README"> | `readme.svg` | Green tile with R for README files |
 | <img src="icons/agents.svg" width="24" height="24" alt="AGENTS"> | `agents.svg` | Peach robot with green eyes for AGENTS files |
 | <img src="icons/gitignore.svg" width="24" height="24" alt=".gitignore"> | `gitignore.svg` | Peach Git tile with a minus badge for `.gitignore` |
+| <img src="icons/docker.svg" width="24" height="24" alt="Dockerfile"> | `docker.svg` | Blue whale with containers for Dockerfile |
+| <img src="icons/dockerignore.svg" width="24" height="24" alt=".dockerignore"> | `dockerignore.svg` | Whale with a gray minus badge for `.dockerignore` |
 
 Install the color theme and file icons together through Zed:
 

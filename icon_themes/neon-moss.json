@@ -33,7 +33,15 @@
         "AGENTS": "agents",
         "AGENTS.md": "agents",
         "Agents": "agents",
-        "Agents.md": "agents"
+        "Agents.md": "agents",
+        "Dockerfile": "docker",
+        "DockerFile": "docker",
+        "dockerfile": "docker",
+        "DOCKERFILE": "docker",
+        ".dockerignore": "dockerignore",
+        ".dockerIgnore": "dockerignore",
+        ".Dockerignore": "dockerignore",
+        ".DockerIgnore": "dockerignore"
       },
       "file_suffixes": {
         "rs": "rust",
@@ -45,7 +53,8 @@
         "down.sql": "sql-down",
         "md": "markdown",
         "markdown": "markdown",
-        "mdown": "markdown"
+        "mdown": "markdown",
+        "dockerfile": "docker"
       },
       "file_icons": {
         "go": {
@@ -86,6 +95,12 @@
         },
         "gitignore": {
           "path": "./icons/gitignore.svg"
+        },
+        "docker": {
+          "path": "./icons/docker.svg"
+        },
+        "dockerignore": {
+          "path": "./icons/dockerignore.svg"
         }
       }
     }
