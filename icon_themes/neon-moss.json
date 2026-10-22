@@ -56,7 +56,8 @@
         "mdown": "markdown",
         "dockerfile": "docker",
         "yml": "yaml",
-        "yaml": "yaml"
+        "yaml": "yaml",
+        "xml": "xml"
       },
       "file_icons": {
         "go": {
@@ -106,6 +107,9 @@
         },
         "yaml": {
           "path": "./icons/yaml-lettering.svg"
+        },
+        "xml": {
+          "path": "./icons/xml.svg"
         }
       },
       "named_directory_icons": {
