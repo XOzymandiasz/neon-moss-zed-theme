@@ -54,7 +54,9 @@
         "md": "markdown",
         "markdown": "markdown",
         "mdown": "markdown",
-        "dockerfile": "docker"
+        "dockerfile": "docker",
+        "yml": "yaml",
+        "yaml": "yaml"
       },
       "file_icons": {
         "go": {
@@ -101,6 +103,9 @@
         },
         "dockerignore": {
           "path": "./icons/dockerignore.svg"
+        },
+        "yaml": {
+          "path": "./icons/yaml.svg"
         }
       },
       "named_directory_icons": {
