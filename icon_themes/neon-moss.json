@@ -116,6 +116,10 @@
         ".github": {
           "collapsed": "./icons/folder-github.svg",
           "expanded": "./icons/folder-github-open.svg"
+        },
+        "target": {
+          "collapsed": "./icons/folder-target.svg",
+          "expanded": "./icons/folder-target-open.svg"
         }
       }
     }

@@ -66,6 +66,8 @@ The SVG artwork is in `icons/`:
 | <img src="icons/folder-github-open.svg" width="24" height="24" alt="Open .github folder"> | `folder-github-open.svg` | Open `.github` folder |
 | <img src="icons/yaml-lettering.svg" width="24" height="24" alt="YAML"> | `yaml-lettering.svg` | Coral indented Y, M and L on a transparent background for `.yml` and `.yaml` |
 | <img src="icons/xml.svg" width="24" height="24" alt="XML"> | `xml.svg` | Sad poop with lavender angle brackets for `.xml` |
+| <img src="icons/folder-target.svg" width="24" height="24" alt="target folder"> | `folder-target.svg` | Orange `target` folder |
+| <img src="icons/folder-target-open.svg" width="24" height="24" alt="Open target folder"> | `folder-target-open.svg` | Open orange `target` folder |
 
 Install the color theme and file icons together through Zed:
 
