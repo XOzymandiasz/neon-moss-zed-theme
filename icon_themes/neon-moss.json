@@ -41,7 +41,18 @@
         ".dockerignore": "dockerignore",
         ".dockerIgnore": "dockerignore",
         ".Dockerignore": "dockerignore",
-        ".DockerIgnore": "dockerignore"
+        ".DockerIgnore": "dockerignore",
+        ".env": "env",
+        ".env.example": "env-template",
+        ".env.template": "env-template",
+        "Cargo.toml": "cargo",
+        "cargo.toml": "cargo",
+        "Cargo.lock": "lock",
+        "package-lock.json": "lock",
+        "yarn.lock": "lock",
+        "pnpm-lock.yaml": "lock",
+        "poetry.lock": "lock",
+        "uv.lock": "lock"
       },
       "file_suffixes": {
         "rs": "rust",
@@ -57,7 +68,12 @@
         "dockerfile": "docker",
         "yml": "yaml",
         "yaml": "yaml",
-        "xml": "xml"
+        "xml": "xml",
+        "env": "env",
+        "env.example": "env-template",
+        "env.template": "env-template",
+        "lock": "lock",
+        "toml": "toml"
       },
       "file_icons": {
         "go": {
@@ -110,6 +126,21 @@
         },
         "xml": {
           "path": "./icons/xml.svg"
+        },
+        "env": {
+          "path": "./icons/env.svg"
+        },
+        "env-template": {
+          "path": "./icons/env-template.svg"
+        },
+        "lock": {
+          "path": "./icons/lock.svg"
+        },
+        "toml": {
+          "path": "./icons/toml.svg"
+        },
+        "cargo": {
+          "path": "./icons/cargo.svg"
         }
       },
       "named_directory_icons": {

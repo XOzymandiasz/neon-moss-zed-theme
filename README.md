@@ -68,6 +68,11 @@ The SVG artwork is in `icons/`:
 | <img src="icons/xml.svg" width="24" height="24" alt="XML"> | `xml.svg` | Sad poop with lavender angle brackets for `.xml` |
 | <img src="icons/folder-target.svg" width="24" height="24" alt="target folder"> | `folder-target.svg` | Orange `target` folder |
 | <img src="icons/folder-target-open.svg" width="24" height="24" alt="Open target folder"> | `folder-target-open.svg` | Open orange `target` folder |
+| <img src="icons/env.svg" width="24" height="24" alt="Environment files"> | `env.svg` | Lime key for `.env` |
+| <img src="icons/env-template.svg" width="24" height="24" alt="Environment templates"> | `env-template.svg` | Muted dashed key for `.env.example` and `.env.template` |
+| <img src="icons/lock.svg" width="24" height="24" alt="Lock files"> | `lock.svg` | Lavender padlock for lock files |
+| <img src="icons/toml.svg" width="24" height="24" alt="TOML"> | `toml.svg` | Coral brackets and T for `.toml` |
+| <img src="icons/cargo.svg" width="24" height="24" alt="Cargo.toml"> | `cargo.svg` | Peach crate for `Cargo.toml` |
 
 Install the color theme and file icons together through Zed:
 
