@@ -73,7 +73,10 @@
         "env.example": "env-template",
         "env.template": "env-template",
         "lock": "lock",
-        "toml": "toml"
+        "toml": "toml",
+        "py": "python",
+        "pyi": "python",
+        "pyw": "python"
       },
       "file_icons": {
         "go": {
@@ -141,6 +144,9 @@
         },
         "cargo": {
           "path": "./icons/cargo.svg"
+        },
+        "python": {
+          "path": "./icons/python.svg"
         }
       },
       "named_directory_icons": {

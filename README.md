@@ -73,6 +73,7 @@ The SVG artwork is in `icons/`:
 | <img src="icons/lock.svg" width="24" height="24" alt="Lock files"> | `lock.svg` | Lavender padlock for lock files |
 | <img src="icons/toml.svg" width="24" height="24" alt="TOML"> | `toml.svg` | Coral brackets and T for `.toml` |
 | <img src="icons/cargo.svg" width="24" height="24" alt="Cargo.toml"> | `cargo.svg` | Peach crate for `Cargo.toml` |
+| <img src="icons/python.svg" width="24" height="24" alt="Python"> | `python.svg` | Striped lime snake shaped like p for Python files |
 
 Install the color theme and file icons together through Zed:
 
