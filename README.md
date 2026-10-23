@@ -74,6 +74,9 @@ The SVG artwork is in `icons/`:
 | <img src="icons/toml.svg" width="24" height="24" alt="TOML"> | `toml.svg` | Coral brackets and T for `.toml` |
 | <img src="icons/cargo.svg" width="24" height="24" alt="Cargo.toml"> | `cargo.svg` | Peach crate for `Cargo.toml` |
 | <img src="icons/python.svg" width="24" height="24" alt="Python"> | `python.svg` | Striped lime snake shaped like p for Python files |
+| <img src="icons/rust-lib.svg" width="24" height="24" alt="lib.rs"> | `rust-lib.svg` | Lavender book badge on the Rust crab for `lib.rs` |
+| <img src="icons/rust-mod.svg" width="24" height="24" alt="mod.rs"> | `rust-mod.svg` | Blue module badge on the Rust crab for `mod.rs` |
+| <img src="icons/rust-main.svg" width="24" height="24" alt="main.rs"> | `rust-main.svg` | Lime run badge on the Rust crab for `main.rs` |
 
 Install the color theme and file icons together through Zed:
 

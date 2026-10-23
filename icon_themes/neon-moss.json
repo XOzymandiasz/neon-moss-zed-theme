@@ -52,7 +52,10 @@
         "yarn.lock": "lock",
         "pnpm-lock.yaml": "lock",
         "poetry.lock": "lock",
-        "uv.lock": "lock"
+        "uv.lock": "lock",
+        "lib.rs": "rust-lib",
+        "mod.rs": "rust-mod",
+        "main.rs": "rust-main"
       },
       "file_suffixes": {
         "rs": "rust",
@@ -147,6 +150,15 @@
         },
         "python": {
           "path": "./icons/python.svg"
+        },
+        "rust-lib": {
+          "path": "./icons/rust-lib.svg"
+        },
+        "rust-mod": {
+          "path": "./icons/rust-mod.svg"
+        },
+        "rust-main": {
+          "path": "./icons/rust-main.svg"
         }
       },
       "named_directory_icons": {
