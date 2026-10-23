@@ -7,8 +7,8 @@
       "name": "Neon Moss Icons",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/folder.svg",
-        "expanded": "./icons/folder-open.svg"
+        "collapsed": "./icons/folder-chevron.svg",
+        "expanded": "./icons/folder-open-chevron.svg"
       },
       "file_stems": {
         "go.mod": "go-mod",
@@ -163,17 +163,21 @@
       },
       "named_directory_icons": {
         ".github": {
-          "collapsed": "./icons/folder-github.svg",
-          "expanded": "./icons/folder-github-open.svg"
+          "collapsed": "./icons/folder-github-chevron.svg",
+          "expanded": "./icons/folder-github-open-chevron.svg"
         },
         "target": {
-          "collapsed": "./icons/folder-target.svg",
-          "expanded": "./icons/folder-target-open.svg"
+          "collapsed": "./icons/folder-target-chevron.svg",
+          "expanded": "./icons/folder-target-open-chevron.svg"
         },
         "workflows": {
-          "collapsed": "./icons/folder-workflows.svg",
-          "expanded": "./icons/folder-workflows-open.svg"
+          "collapsed": "./icons/folder-workflows-chevron.svg",
+          "expanded": "./icons/folder-workflows-open-chevron.svg"
         }
+      },
+      "chevron_icons": {
+        "collapsed": "./icons/folder-chevron.svg",
+        "expanded": "./icons/folder-open-chevron.svg"
       }
     }
   ]

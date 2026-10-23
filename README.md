@@ -47,7 +47,7 @@ The SVG artwork is in `icons/`:
 
 | Preview | File | Design |
 | --- | --- | --- |
-| <img src="icons/folder.svg" width="24" height="24" alt="Folder"> | `folder.svg` | Green collapsed folder chevron |
+| <img src="icons/folder-chevron.svg" width="24" height="24" alt="Folder"> | `folder-chevron.svg` | Green collapsed folder chevron |
 | <img src="icons/rust.svg" width="24" height="24" alt="Rust"> | `rust.svg` | Filled peach crab with large eyes, a finely toothed shell and an R |
 | <img src="icons/go.svg" width="24" height="24" alt="Go"> | `go.svg` | Cyan gopher |
 | <img src="icons/json.svg" width="24" height="24" alt="JSON"> | `json.svg` | Purple rounded tile with dark braces |
@@ -62,12 +62,12 @@ The SVG artwork is in `icons/`:
 | <img src="icons/gitignore.svg" width="24" height="24" alt=".gitignore"> | `gitignore.svg` | Peach Git tile with a minus badge for `.gitignore` |
 | <img src="icons/docker.svg" width="24" height="24" alt="Dockerfile"> | `docker.svg` | Blue whale with containers for Dockerfile |
 | <img src="icons/dockerignore.svg" width="24" height="24" alt=".dockerignore"> | `dockerignore.svg` | Whale with a gray minus badge for `.dockerignore` |
-| <img src="icons/folder-github.svg" width="24" height="24" alt=".github folder"> | `folder-github.svg` | Lavender collapsed `.github` chevron |
-| <img src="icons/folder-github-open.svg" width="24" height="24" alt="Open .github folder"> | `folder-github-open.svg` | Lavender expanded `.github` chevron |
+| <img src="icons/folder-github-chevron.svg" width="24" height="24" alt=".github folder"> | `folder-github-chevron.svg` | Lavender collapsed `.github` chevron |
+| <img src="icons/folder-github-open-chevron.svg" width="24" height="24" alt="Open .github folder"> | `folder-github-open-chevron.svg` | Lavender expanded `.github` chevron |
 | <img src="icons/yaml-lettering.svg" width="24" height="24" alt="YAML"> | `yaml-lettering.svg` | Coral indented Y, M and L on a transparent background for `.yml` and `.yaml` |
 | <img src="icons/xml.svg" width="24" height="24" alt="XML"> | `xml.svg` | Sad poop with lavender angle brackets for `.xml` |
-| <img src="icons/folder-target.svg" width="24" height="24" alt="target folder"> | `folder-target.svg` | Orange collapsed `target` chevron |
-| <img src="icons/folder-target-open.svg" width="24" height="24" alt="Open target folder"> | `folder-target-open.svg` | Orange expanded `target` chevron |
+| <img src="icons/folder-target-chevron.svg" width="24" height="24" alt="target folder"> | `folder-target-chevron.svg` | Orange collapsed `target` chevron |
+| <img src="icons/folder-target-open-chevron.svg" width="24" height="24" alt="Open target folder"> | `folder-target-open-chevron.svg` | Orange expanded `target` chevron |
 | <img src="icons/env.svg" width="24" height="24" alt="Environment files"> | `env.svg` | Lime key for `.env` |
 | <img src="icons/env-template.svg" width="24" height="24" alt="Environment templates"> | `env-template.svg` | Muted dashed key for `.env.example` and `.env.template` |
 | <img src="icons/lock.svg" width="24" height="24" alt="Lock files"> | `lock.svg` | Lavender padlock for lock files |
@@ -77,8 +77,10 @@ The SVG artwork is in `icons/`:
 | <img src="icons/rust-lib.svg" width="24" height="24" alt="lib.rs"> | `rust-lib.svg` | Lavender book badge on the Rust crab for `lib.rs` |
 | <img src="icons/rust-mod.svg" width="24" height="24" alt="mod.rs"> | `rust-mod.svg` | Blue module badge on the Rust crab for `mod.rs` |
 | <img src="icons/rust-main.svg" width="24" height="24" alt="main.rs"> | `rust-main.svg` | Lime run badge on the Rust crab for `main.rs` |
-| <img src="icons/folder-workflows.svg" width="24" height="24" alt="workflows"> | `folder-workflows.svg` | Blue collapsed `workflows` chevron |
-| <img src="icons/folder-workflows-open.svg" width="24" height="24" alt="Open workflows"> | `folder-workflows-open.svg` | Blue expanded `workflows` chevron |
+| <img src="icons/folder-workflows-chevron.svg" width="24" height="24" alt="workflows"> | `folder-workflows-chevron.svg` | Blue collapsed `workflows` chevron |
+| <img src="icons/folder-workflows-open-chevron.svg" width="24" height="24" alt="Open workflows"> | `folder-workflows-open-chevron.svg` | Blue expanded `workflows` chevron |
+
+For the per-folder colors, set `"folder_indicator": "icon"` inside `project_panel` in Zed settings. The theme also supplies green fallback expand/collapse chevrons.
 
 Folder chevrons are green by default, orange for `target`, lavender for `.github` and blue for `workflows`. Folder names are matched throughout the project, so the blue variant applies to `.github/workflows` and any other folder named `workflows`.
 
