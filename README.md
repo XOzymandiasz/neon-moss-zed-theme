@@ -79,10 +79,14 @@ The SVG artwork is in `icons/`:
 | <img src="icons/rust-main.svg" width="24" height="24" alt="main.rs"> | `rust-main.svg` | Lime run badge on the Rust crab for `main.rs` |
 | <img src="icons/folder-workflows-chevron.svg" width="24" height="24" alt="workflows"> | `folder-workflows-chevron.svg` | Blue collapsed `workflows` chevron |
 | <img src="icons/folder-workflows-open-chevron.svg" width="24" height="24" alt="Open workflows"> | `folder-workflows-open-chevron.svg` | Blue expanded `workflows` chevron |
+| <img src="icons/folder-cargo-chevron.svg" width="24" height="24" alt=".cargo"> <img src="icons/folder-cargo-open-chevron.svg" width="24" height="24" alt="Open .cargo"> | `.cargo` | #FFBD87 folder chevrons |
+| <img src="icons/folder-deployments-chevron.svg" width="24" height="24" alt="deployments"> <img src="icons/folder-deployments-open-chevron.svg" width="24" height="24" alt="Open deployments"> | `deployments` | #F58FBD folder chevrons |
+| <img src="icons/folder-migrations-chevron.svg" width="24" height="24" alt="migrations"> <img src="icons/folder-migrations-open-chevron.svg" width="24" height="24" alt="Open migrations"> | `migrations` | #8CCFFF folder chevrons |
+| <img src="icons/folder-scripts-chevron.svg" width="24" height="24" alt="scripts"> <img src="icons/folder-scripts-open-chevron.svg" width="24" height="24" alt="Open scripts"> | `scripts` | #9ADDCB folder chevrons |
 
 For the per-folder colors, set `"folder_indicator": "icon"` inside `project_panel` in Zed settings. The theme also supplies green fallback expand/collapse chevrons.
 
-Folder chevrons are green by default, orange for `target`, lavender for `.github` and blue for `workflows`. Folder names are matched throughout the project, so the blue variant applies to `.github/workflows` and any other folder named `workflows`.
+Folder chevrons are green by default, orange for `target`, lavender for `.github` and blue for `workflows`. Additional arrows are peach for `.cargo`, pink for `deployments`, blue for `migrations` and mint for `scripts`. Folder names are matched throughout the project, so the blue variant applies to `.github/workflows` and any other folder named `workflows`.
 
 Install the color theme and file icons together through Zed:
 

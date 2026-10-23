@@ -173,6 +173,22 @@
         "workflows": {
           "collapsed": "./icons/folder-workflows-chevron.svg",
           "expanded": "./icons/folder-workflows-open-chevron.svg"
+        },
+        ".cargo": {
+          "collapsed": "./icons/folder-cargo-chevron.svg",
+          "expanded": "./icons/folder-cargo-open-chevron.svg"
+        },
+        "deployments": {
+          "collapsed": "./icons/folder-deployments-chevron.svg",
+          "expanded": "./icons/folder-deployments-open-chevron.svg"
+        },
+        "migrations": {
+          "collapsed": "./icons/folder-migrations-chevron.svg",
+          "expanded": "./icons/folder-migrations-open-chevron.svg"
+        },
+        "scripts": {
+          "collapsed": "./icons/folder-scripts-chevron.svg",
+          "expanded": "./icons/folder-scripts-open-chevron.svg"
         }
       },
       "chevron_icons": {
