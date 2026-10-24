@@ -11,6 +11,20 @@
         "expanded": "./icons/folder-open-chevron.svg"
       },
       "file_stems": {
+        "docker-compose": "docker-compose",
+        "docker-compose.yml": "docker-compose",
+        "docker-compose.yaml": "docker-compose",
+        "compose": "docker-compose",
+        "compose.yml": "docker-compose",
+        "compose.yaml": "docker-compose",
+        "docker-compose.override.yml": "docker-compose",
+        "docker-compose.override.yaml": "docker-compose",
+        "compose.override.yml": "docker-compose",
+        "compose.override.yaml": "docker-compose",
+        "Makefile": "makefile",
+        "makefile": "makefile",
+        "MAKEFILE": "makefile",
+        "GNUmakefile": "makefile",
         "go.mod": "go-mod",
         "go.sum": "go-sum",
         "up.sql": "sql-up",
@@ -61,6 +75,23 @@
         "rs": "rust",
         "jsonc": "json",
         "json": "json",
+        "txt": "txt",
+        "ps1": "powershell",
+        "css": "css",
+        "scss": "scss",
+        "properties": "properties",
+        "conf": "conf",
+        "js": "javascript",
+        "ts": "typescript",
+        "lua": "lua",
+        "php": "php",
+        "java": "java",
+        "cpp": "cpp",
+        "c": "c",
+        "h": "h",
+        "cs": "csharp",
+        "csproj": "csproj",
+        "slnx": "slnx",
         "go": "go",
         "sql": "sql",
         "up.sql": "sql-up",
@@ -82,6 +113,63 @@
         "pyw": "python"
       },
       "file_icons": {
+        "php": {
+          "path": "./icons/php.svg"
+        },
+        "java": {
+          "path": "./icons/java.svg"
+        },
+        "cpp": {
+          "path": "./icons/cpp.svg"
+        },
+        "c": {
+          "path": "./icons/c.svg"
+        },
+        "h": {
+          "path": "./icons/h.svg"
+        },
+        "csharp": {
+          "path": "./icons/csharp.svg"
+        },
+        "csproj": {
+          "path": "./icons/csproj.svg"
+        },
+        "slnx": {
+          "path": "./icons/slnx.svg"
+        },
+        "lua": {
+          "path": "./icons/lua.svg"
+        },
+        "docker-compose": {
+          "path": "./icons/docker-compose.svg"
+        },
+        "javascript": {
+          "path": "./icons/javascript.svg"
+        },
+        "typescript": {
+          "path": "./icons/typescript.svg"
+        },
+        "properties": {
+          "path": "./icons/properties.svg"
+        },
+        "conf": {
+          "path": "./icons/conf.svg"
+        },
+        "css": {
+          "path": "./icons/css.svg"
+        },
+        "scss": {
+          "path": "./icons/scss.svg"
+        },
+        "powershell": {
+          "path": "./icons/powershell.svg"
+        },
+        "makefile": {
+          "path": "./icons/makefile.svg"
+        },
+        "txt": {
+          "path": "./icons/txt.svg"
+        },
         "go": {
           "path": "./icons/go.svg"
         },

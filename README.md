@@ -51,6 +51,24 @@ The SVG artwork is in `icons/`:
 | <img src="icons/rust.svg" width="24" height="24" alt="Rust"> | `rust.svg` | Filled peach crab with large eyes, a finely toothed shell and an R |
 | <img src="icons/go.svg" width="24" height="24" alt="Go"> | `go.svg` | Cyan gopher |
 | <img src="icons/json.svg" width="24" height="24" alt="JSON"> | `json.svg` | Purple rounded tile with dark braces |
+| <img src="icons/txt.svg" width="24" height="24" alt="Text"> | `txt.svg` | Peach flame with a pale yellow center for `.txt` files |
+| <img src="icons/makefile.svg" width="24" height="24" alt="Makefile"> | `makefile.svg` | Mint factory with a peach chimney for Makefiles |
+| <img src="icons/powershell.svg" width="24" height="24" alt="PowerShell"> | `powershell.svg` | Blue rounded terminal with a dark prompt for `.ps1` files |
+| <img src="icons/css.svg" width="24" height="24" alt="CSS"> | `css.svg` | Blue paintbrush with mint paint for `.css` files |
+| <img src="icons/scss.svg" width="24" height="24" alt="SCSS"> | `scss.svg` | Pink paintbrush with lavender paint and a drop for `.scss` files |
+| <img src="icons/properties.svg" width="24" height="24" alt="Properties"> | `properties.svg` | Peach sliders with lime knobs for `.properties` files |
+| <img src="icons/conf.svg" width="24" height="24" alt="Configuration"> | `conf.svg` | Lavender gear with a mint center for `.conf` files |
+| <img src="icons/javascript.svg" width="24" height="24" alt="JavaScript"> | `javascript.svg` | Pale yellow lightning bolt with a dark J for `.js` files |
+| <img src="icons/typescript.svg" width="24" height="24" alt="TypeScript"> | `typescript.svg` | Blue lightning bolt with a dark T for `.ts` files |
+| <img src="icons/lua.svg" width="24" height="24" alt="Lua"> | `lua.svg` | Lavender crescent moon with a mint star for `.lua` files |
+| <img src="icons/php.svg" width="24" height="24" alt="PHP"> | `php.svg` | Lavender elephant for `.php` files |
+| <img src="icons/java.svg" width="24" height="24" alt="Java"> | `java.svg` | Peach coffee cup with coral steam for `.java` files |
+| <img src="icons/cpp.svg" width="24" height="24" alt="C++"> | `cpp.svg` | Lavender rounded C++ tile for `.cpp` files |
+| <img src="icons/c.svg" width="24" height="24" alt="C"> | `c.svg` | Blue rounded C tile for `.c` files |
+| <img src="icons/h.svg" width="24" height="24" alt="Header"> | `h.svg` | Pale yellow rounded H tile for `.h` files |
+| <img src="icons/csharp.svg" width="24" height="24" alt="C sharp"> | `csharp.svg` | Mint rounded tile with dark C# lettering for `.cs` files |
+| <img src="icons/csproj.svg" width="24" height="24" alt="C sharp project"> | `csproj.svg` | Peach package with mint tape for `.csproj` files |
+| <img src="icons/slnx.svg" width="24" height="24" alt="Solution"> | `slnx.svg` | Connected lavender modules for `.slnx` files |
 | <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
 | <img src="icons/go-sum.svg" width="24" height="24" alt="go.sum"> | `go-sum.svg` | Muted pink gopher for `go.sum` |
 | <img src="icons/sql-lettering.svg" width="24" height="24" alt="SQL"> | `sql-lettering.svg` | Blue SQL lettering on a transparent background |
@@ -61,6 +79,7 @@ The SVG artwork is in `icons/`:
 | <img src="icons/agents.svg" width="24" height="24" alt="AGENTS"> | `agents.svg` | Peach robot with green eyes for AGENTS files |
 | <img src="icons/gitignore.svg" width="24" height="24" alt=".gitignore"> | `gitignore.svg` | Peach Git tile with a minus badge for `.gitignore` |
 | <img src="icons/docker.svg" width="24" height="24" alt="Dockerfile"> | `docker.svg` | Blue whale with containers for Dockerfile |
+| <img src="icons/docker-compose.svg" width="24" height="24" alt="Docker Compose"> | `docker-compose.svg` | Three connected blue, mint and lavender containers for `docker-compose` and `compose`, including `.yml`, `.yaml` and override files |
 | <img src="icons/dockerignore.svg" width="24" height="24" alt=".dockerignore"> | `dockerignore.svg` | Whale with a gray minus badge for `.dockerignore` |
 | <img src="icons/folder-github-chevron.svg" width="24" height="24" alt=".github folder"> | `folder-github-chevron.svg` | Lavender collapsed `.github` chevron |
 | <img src="icons/folder-github-open-chevron.svg" width="24" height="24" alt="Open .github folder"> | `folder-github-open-chevron.svg` | Lavender expanded `.github` chevron |
