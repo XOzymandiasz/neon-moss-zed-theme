@@ -11,6 +11,9 @@
         "expanded": "./icons/folder-open-chevron.svg"
       },
       "file_stems": {
+        "Dockerfile.dev": "docker-dev",
+        "nginx.conf": "nginx",
+        "package.json": "package",
         "docker-compose": "docker-compose",
         "docker-compose.yml": "docker-compose",
         "docker-compose.yaml": "docker-compose",
@@ -72,6 +75,10 @@
         "main.rs": "rust-main"
       },
       "file_suffixes": {
+        "spec.ts": "typescript-spec",
+        "html": "html",
+        "ico": "image",
+        "png": "image",
         "rs": "rust",
         "jsonc": "json",
         "json": "json",
@@ -113,6 +120,24 @@
         "pyw": "python"
       },
       "file_icons": {
+        "typescript-spec": {
+          "path": "./icons/typescript-spec.svg"
+        },
+        "html": {
+          "path": "./icons/html.svg"
+        },
+        "docker-dev": {
+          "path": "./icons/docker-dev.svg"
+        },
+        "nginx": {
+          "path": "./icons/nginx.svg"
+        },
+        "package": {
+          "path": "./icons/package.svg"
+        },
+        "image": {
+          "path": "./icons/image.svg"
+        },
         "php": {
           "path": "./icons/php.svg"
         },

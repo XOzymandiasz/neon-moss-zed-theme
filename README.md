@@ -43,6 +43,8 @@ You can also load this repository through Zed's `zed: install dev extension` com
 
 ## File icons
 
+Additional icons cover `*.spec.ts` (TypeScript with a lime check badge), `.html` (peach brackets), `Dockerfile.dev` (Docker whale with a lime code badge), `nginx.conf` (green N), `package.json` (pink package), and `.ico` / `.png` (a shared lavender landscape).
+
 The SVG artwork is in `icons/`:
 
 | Preview | File | Design |
