@@ -43,6 +43,8 @@ You can also load this repository through Zed's `zed: install dev extension` com
 
 ## File icons
 
+The set also includes React (`.jsx`, `.tsx`), shell and batch scripts, vector SVG artwork, common raster image formats, Git configuration, CSV tables, databases, .NET resources, Razor views, MSBuild files, NuGet configuration, logs, PDF documents and ZIP archives. `.ini`, `.editorconfig` and `.npmrc` share the configuration gear. C++ aliases `.cc` and `.cxx` share the C++ icon, while `.hpp` shares the header icon. JavaScript `.mjs` / `.cjs`, TypeScript `.mts` / `.cts` and HTML `.htm` reuse their language icons.
+
 Additional icons cover `*.spec.ts` (TypeScript with a lime check badge), `.html` (peach brackets), `Dockerfile.dev` (Docker whale with a lime code badge), `nginx.conf` (green N), `package.json` (pink package), and `.ico` / `.png` (a shared lavender landscape).
 
 The SVG artwork is in `icons/`:
@@ -69,8 +71,9 @@ The SVG artwork is in `icons/`:
 | <img src="icons/c.svg" width="24" height="24" alt="C"> | `c.svg` | Blue rounded C tile for `.c` files |
 | <img src="icons/h.svg" width="24" height="24" alt="Header"> | `h.svg` | Pale yellow rounded H tile for `.h` files |
 | <img src="icons/csharp.svg" width="24" height="24" alt="C sharp"> | `csharp.svg` | Mint rounded tile with dark C# lettering for `.cs` files |
+| <img src="icons/csharp-interface.svg" width="24" height="24" alt="C sharp interface"> | `csharp-interface.svg` | Mint interface connector for `*.interface.cs` files; conventional `IName.cs` filenames keep the C# icon because Zed does not support prefix patterns |
 | <img src="icons/csproj.svg" width="24" height="24" alt="C sharp project"> | `csproj.svg` | Peach package with mint tape for `.csproj` files |
-| <img src="icons/slnx.svg" width="24" height="24" alt="Solution"> | `slnx.svg` | Connected lavender modules for `.slnx` files |
+| <img src="icons/slnx.svg" width="24" height="24" alt="Solution"> | `slnx.svg` | Connected lavender modules for `.sln` and `.slnx` files |
 | <img src="icons/go-mod.svg" width="24" height="24" alt="go.mod"> | `go-mod.svg` | Pink gopher for `go.mod` |
 | <img src="icons/go-sum.svg" width="24" height="24" alt="go.sum"> | `go-sum.svg` | Muted pink gopher for `go.sum` |
 | <img src="icons/sql-lettering.svg" width="24" height="24" alt="SQL"> | `sql-lettering.svg` | Blue SQL lettering on a transparent background |
