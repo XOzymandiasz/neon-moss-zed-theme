@@ -82,6 +82,12 @@
         "main.rs": "rust-main"
       },
       "file_suffixes": {
+        "doc": "document",
+        "docx": "document",
+        "odt": "document",
+        "text": "txt",
+        "typ": "typst",
+        "typst": "typst",
         "jsx": "react",
         "tsx": "react",
         "sh": "shell",
@@ -160,6 +166,8 @@
         "pyw": "python"
       },
       "file_icons": {
+        "document": { "path": "./icons/document.svg" },
+        "typst": { "path": "./icons/typst.svg" },
         "react": { "path": "./icons/react.svg" },
         "shell": { "path": "./icons/shell.svg" },
         "batch": { "path": "./icons/batch.svg" },
