@@ -43,6 +43,8 @@ You can also load this repository through Zed's `zed: install dev extension` com
 
 ## File icons
 
+LaTeX sources (`.tex`) use a mint TeX tile, bibliography files (`.bib`) use a lavender book with quotation marks, and Excalidraw drawings (`.excalidraw`) use a lavender sketch page with a peach pencil.
+
 Word and OpenDocument files (`.doc`, `.docx`, `.odt`) share a blue document icon. `.text` uses the same peach flame as `.txt`. Typst files (`.typ`, `.typst`) use a mint tile with a dark lowercase t.
 
 The set also includes React (`.jsx`, `.tsx`), shell and batch scripts, vector SVG artwork, common raster image formats, Git configuration, CSV tables, databases, .NET resources, Razor views, MSBuild files, NuGet configuration, logs, PDF documents and ZIP archives. `.ini`, `.editorconfig` and `.npmrc` share the configuration gear. C++ aliases `.cc` and `.cxx` share the C++ icon, while `.hpp` shares the header icon. JavaScript `.mjs` / `.cjs`, TypeScript `.mts` / `.cts` and HTML `.htm` reuse their language icons.

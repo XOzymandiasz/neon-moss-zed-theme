@@ -82,6 +82,9 @@
         "main.rs": "rust-main"
       },
       "file_suffixes": {
+        "tex": "tex",
+        "bib": "bib",
+        "excalidraw": "excalidraw",
         "doc": "document",
         "docx": "document",
         "odt": "document",
@@ -166,6 +169,9 @@
         "pyw": "python"
       },
       "file_icons": {
+        "tex": { "path": "./icons/tex.svg" },
+        "bib": { "path": "./icons/bib.svg" },
+        "excalidraw": { "path": "./icons/excalidraw.svg" },
         "document": { "path": "./icons/document.svg" },
         "typst": { "path": "./icons/typst.svg" },
         "react": { "path": "./icons/react.svg" },
