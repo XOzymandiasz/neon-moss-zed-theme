@@ -43,6 +43,8 @@ You can also load this repository through Zed's `zed: install dev extension` com
 
 ## File icons
 
+Vue components (`.vue`) use a mint V with a lime inner accent.
+
 Solidity files (`.sol`) use a lavender and mint geometric symbol. Foundry scripts (`*.s.sol`) add a peach run badge, and tests (`*.t.sol`) add a lime check badge.
 
 LaTeX sources (`.tex`) use a mint TeX tile, bibliography files (`.bib`) use a lavender book with quotation marks, and Excalidraw drawings (`.excalidraw`) use a lavender sketch page with a peach pencil.

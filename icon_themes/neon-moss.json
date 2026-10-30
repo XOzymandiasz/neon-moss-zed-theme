@@ -82,6 +82,7 @@
         "main.rs": "rust-main"
       },
       "file_suffixes": {
+        "vue": "vue",
         "s.sol": "solidity-script",
         "t.sol": "solidity-test",
         "sol": "solidity",
@@ -172,6 +173,7 @@
         "pyw": "python"
       },
       "file_icons": {
+        "vue": { "path": "./icons/vue.svg" },
         "solidity": { "path": "./icons/solidity.svg" },
         "solidity-script": { "path": "./icons/solidity-script.svg" },
         "solidity-test": { "path": "./icons/solidity-test.svg" },
