@@ -82,6 +82,9 @@
         "main.rs": "rust-main"
       },
       "file_suffixes": {
+        "s.sol": "solidity-script",
+        "t.sol": "solidity-test",
+        "sol": "solidity",
         "tex": "tex",
         "bib": "bib",
         "excalidraw": "excalidraw",
@@ -169,6 +172,9 @@
         "pyw": "python"
       },
       "file_icons": {
+        "solidity": { "path": "./icons/solidity.svg" },
+        "solidity-script": { "path": "./icons/solidity-script.svg" },
+        "solidity-test": { "path": "./icons/solidity-test.svg" },
         "tex": { "path": "./icons/tex.svg" },
         "bib": { "path": "./icons/bib.svg" },
         "excalidraw": { "path": "./icons/excalidraw.svg" },
